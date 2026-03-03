@@ -82,6 +82,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+---
+
 ## Connect With Me
 
 -  [LinkedIn](https://www.linkedin.com/in/nabeel-muhammed-4b8644205/)
