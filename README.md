@@ -52,6 +52,10 @@
 
 **Solved:** 350+
 
+<p>
+  <img src="https://leetcode-card-one.vercel.app/api/stats?username=nabeelmspa"/>
+</p>
+
 ### Strong Areas
   ✔ Arrays & Strings
   ✔ Binary Search
