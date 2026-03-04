@@ -19,7 +19,6 @@
 
 -  Software Engineer  
 -  Solved **350+ LeetCode problems**  
--  Preparing for MAANG-level SDE roles  
 -  Focused on DSA, Backend Engineering & System Design  
 -  Passionate about building scalable distributed systems  
 
